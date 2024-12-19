@@ -141,9 +141,6 @@
       To start bot ``` npm start ```,
       To stop bot ``` npm stop ```
 
-### TUTORIAL FOR TERMUX/UBUNTU
-<a href="https://youtube.com/suhailtechinfo"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/Garun69" /><br>
-
 --------
 
 12.   ## TERMUX/UBUNTU
